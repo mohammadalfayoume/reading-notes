@@ -42,3 +42,5 @@ First you have to define an attribute and its value with interpolation {}, then 
 >What is the flow of props?
 
 The directional flow of data props is one way directional flow (from parent to child).
+
+## Things I want to know more about
