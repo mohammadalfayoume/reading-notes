@@ -1,3 +1,4 @@
+# Day 01
 # React and Components
 
 > What is a “component”?
