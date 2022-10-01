@@ -15,7 +15,7 @@ We will talk about linked list.
 
 One characteristic of linked lists is that they are linear data structures, which means that there is a sequence and an order to how they are constructed and traversed.
 
-![linear_vs_nonlinear](../asset/linear_vs_nonlinear_ds.png)
+![linear_vs_nonlinear](../../asset/linear_vs_nonlinear_ds.png)
 
 When we use arrays in our code, we’re implementing a linear data structure
 
@@ -25,7 +25,7 @@ What makes arrays and linked lists different?
 
 Memory allocation in static versus dynamic data structures
 
-![memory_allocation](../asset/memory_allocation.png)
+![memory_allocation](../../asset/memory_allocation.png)
 
 The fundamental difference between arrays and linked lists is that arrays are static data structures, while linked lists are dynamic data structures.
 
@@ -33,7 +33,7 @@ A dynamic data structure can shrink and grow in memory.
 
 * Parts of a linked list
 
-![parts_of_linked_list](../asset/parts_of_linked_list.png)
+![parts_of_linked_list](../../asset/parts_of_linked_list.png)
 
 node: A single node is also pretty simple. It has just two parts: data, or the information that the node contains, and a reference to the next node.
 
@@ -43,7 +43,7 @@ node: A single node is also pretty simple. It has just two parts: data, or the i
 
 Linked list called a doubly linked list, because there are two references contained within each node: a reference to the next node, as well as the previous node.
 
-![types_of_linked_lists](../asset/types_of_linked_lists.png)
+![types_of_linked_lists](../../asset/types_of_linked_lists.png)
 
 ---
 
@@ -65,7 +65,7 @@ If we have a list of the number 1–10, and we wanted to write an algorithm that
 
 * ### types of Big O equations:
 
-![big_o_n_types](../asset/big_o_n_types.png)
+![big_o_n_types](../../asset/big_o_n_types.png)
 
 1) O(1)
 
@@ -90,7 +90,7 @@ the linked list.
 
 3- Lastly, we rearrange our head node’s pointer to point at our new node.
 
-![grow_O(n)](../asset/grow_O(n).png)
+![grow_O(n)](../../asset/grow_O(n).png)
 
 A good rule of thumb for remember the characteristics of linked lists is this:
 
@@ -98,7 +98,7 @@ A good rule of thumb for remember the characteristics of linked lists is this:
 
 ### Finaly, the differance between Arrays and Linked lists:
 
-![array_vs_linkedLists](../asset/array_vs_linkedLists.png)
+![array_vs_linkedLists](../../asset/array_vs_linkedLists.png)
 
 > # Referances
 
