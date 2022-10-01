@@ -14,7 +14,7 @@ In this section I will introduce my self in unordered list:
 * My linkdin account: [LinkdIn](https://www.linkedin.com/in/mohammad-alfayoume-194b531b3/)
 * My picture:
 
-![My photo](my_picture.jpg)
+![My photo](./asset/my_picture.jpg)
 
 
 ### Section 2
