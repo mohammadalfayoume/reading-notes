@@ -1,3 +1,4 @@
+# [Home](../../README.md)
 # Day 01
 # What’s a Linked List, Anyway? [Part 1]
 
