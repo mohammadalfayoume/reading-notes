@@ -8,9 +8,12 @@ Unit tests are some pieces of code to exercise the input, the output and the beh
 TDD: Test-Driven Development is a strategy to think (and write!) tests first.
 
 ### Benifits of TDD:
-* The greatest advantage about TDD is to craft the software design first.
-* Your code will be more reliable: after a change you can run your tests and be in peace.
-* Beginning may be hard — and that’s fine. You just need to practice!
+
+- The greatest advantage about TDD is to craft the software design first.
+
+- Your code will be more reliable: after a change you can run your tests and be in peace.
+
+- Beginning may be hard — and that’s fine. You just need to practice!
 
 ## What does the if __name__ == “__main__”: do?
 
@@ -28,16 +31,16 @@ Recursion is an amazing technique with the help of which we can reduce the lengt
 
 ### Properties of Recursion:
 
-* Performing the same operations multiple times with different inputs.
+- Performing the same operations multiple times with different inputs.
 
-* In every step, we try smaller inputs to make the problem smaller.
+- In every step, we try smaller inputs to make the problem smaller.
 
-* Base condition is needed to stop the recursion otherwise infinite loop will occur.
+- Base condition is needed to stop the recursion otherwise infinite loop will occur.
 
-> # Referances
+## Referances
 
-1) https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932
+1- https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932
 
-2) https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/
+2- https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/
 
-3) https://www.geeksforgeeks.org/recursion/
+3- https://www.geeksforgeeks.org/recursion/
