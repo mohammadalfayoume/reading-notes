@@ -32,6 +32,6 @@ In this section I will mension the reseons to select ASAC in orderd list:
 
 >## Code 401 - Advanced Software Development
 
-* ## [class-01](code-401-python/class-01/README.md)
+* ## [class-01](code-401-python/class-01)
 
-* ## [class-02](code-401-python/class-02/README.MD)
+* ## [class-02](code-401-python/class-02)
