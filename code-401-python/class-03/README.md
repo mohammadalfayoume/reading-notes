@@ -1,4 +1,3 @@
-# [Home](../../README.md)
 # Day 03
 ## A beginner's guide to Big O Notation
 

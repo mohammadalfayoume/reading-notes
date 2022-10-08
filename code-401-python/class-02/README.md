@@ -1,4 +1,3 @@
-# [Home](../../README.md)
 # Day 02
 ## In Tests We Trust — TDD with Python
 
