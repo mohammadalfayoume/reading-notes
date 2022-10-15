@@ -1,4 +1,4 @@
-# Day 06
+# Day 07
 ## Software Design Patterns Simplified
 
 A design pattern is only a description or template for how to solve a problem! that can be used in many different situations. A design pattern is only a description or template for how to solve a problem! that can be used in many different situations.
