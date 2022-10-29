@@ -12,10 +12,6 @@ In this section I will introduce my self in unordered list:
 * Now I am studying **Software Development-Python** at _LUTC-ASAC_.
 * My github account: [Github](https://github.com/mohammadalfayoume)
 * My linkdin account: [LinkdIn](https://www.linkedin.com/in/mohammad-alfayoume-194b531b3/)
-* My picture:
-
-![My photo](./asset/my_picture.jpg)
-
 
 ### Section 2
 In this section I will mension the reseons to select ASAC in orderd list:
