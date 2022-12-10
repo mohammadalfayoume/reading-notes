@@ -71,3 +71,5 @@ In this section I will mension the reseons to select ASAC in orderd list:
 * ## [class-22](code-401-python/class-22)
 
 * ## [class-23](code-401-python/class-23)
+
+* ## [class-24](code-401-python/class-24)
